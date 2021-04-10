@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-image:url(ER0AQagU8AAUjHM.jpg);
+}
+img{
+    width:200px;
+    height:200px;
+}
+#mycarousel{
+    background-color:aqua;
+}
